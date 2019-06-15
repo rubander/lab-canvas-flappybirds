@@ -1,4 +1,7 @@
-let game = new Flappy();
+let game2 = new Flappy();
+
+
+
 
 window.onload = function() {
   document.getElementById("start-button").onclick = function() {
